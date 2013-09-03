@@ -1,0 +1,191 @@
+body{
+	width: 1429px;
+	height: 808px;
+	
+background:#000;
+	
+}
+#wrapper{
+	width: 1429px;
+	height: 808px;
+	margin: 0 auto;
+	}
+	
+
+ul{
+	width: 1429px;
+	background-color:#FF0000;
+	list-style-type: none;
+	padding: 0;
+	overflow: hidden;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+li{
+	width: 200px;
+	background-color:#FF0000;
+	float: left;
+	height: 30px;
+	font-weight: bolder;
+	text-shadow:2px 2px 4px #000;
+}
+a{
+	display: block;
+	line-height: 30px;
+	text-align: center;
+	color: #FFF;
+	text-decoration: none;
+		
+}
+a:visited{
+	color:#FFF;
+} 
+a:hover{
+	color:#000;
+	background:#CCCCCC
+}
+
+a:active{
+	color:#FFFFFF
+	} 
+#logo{
+	font-size: 36px;
+	color: #FFF;
+	font-style: oblique;
+	font-weight: bold;
+	text-shadow:2px 2px 4px #000;
+	text-align:center;
+	}
+	
+	#nav,a{
+	text-indent: right;
+		}
+#container {
+	width: 960px;
+	margin-top: 500px;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	
+}
+
+#content{
+	
+	
+	height: 145px;
+	width: 320px;
+	float: left;	
+	
+}
+
+#contenttwo{
+
+	
+	height: 145px;
+	width: 320px;
+	float: left;
+}
+
+#contentthree{
+	
+	
+	height: 145px;
+	width: 320px;
+	float: left;	
+}
+
+.clear{
+	clear:both;
+
+	}
+.center{
+	text-align: center;
+	color:#FFFFFF;	
+	}
+.homepage_background{
+	background-image: url(../images/jims.jpg);	
+}
+
+h1{
+	text-align: center;
+	}
+	
+#columns{
+	-webkit-column-count: 3;
+	-webkit-column-rule: 1px solid #999999;
+	padding:10px;
+	-moz-column-count: 3;
+	-moz-column-rule: 1px solid #999999;
+	
+}
+
+.text{color:#CCC;}
+
+h1{
+	color:#FFF;
+}
+
+#logotwo{
+	font-size: 36px;
+	color: #FFF;
+	font-style: oblique;
+	font-weight: bold;
+	text-shadow:2px 2px 4px #000;
+	text-align:center
+}
+
+#logothree{
+	font-size: 36px;
+	color: #FFF;
+	font-style: oblique;
+	font-weight: bold;
+	text-shadow:2px 2px 4px #000;
+	text-align:center
+}
+
+#logofour{
+	font-size: 36px;
+	color: #FFF;
+	font-style: oblique;
+	font-weight: bold;
+	text-shadow:2px 2px 4px #000;
+	text-align:center
+}
+
+#logofive{
+	font-size: 36px;
+	color: #FFF;
+	font-style: oblique;
+	font-weight: bold;
+	text-shadow:2px 2px 4px #000;
+	text-align:center
+}
+
+#logosix{
+	font-size: 36px;
+	color: #FFF;
+	font-style: oblique;
+	font-weight: bold;
+	text-shadow:2px 2px 4px #000;
+	text-align:center
+}
+
+#logoseven{
+	font-size: 36px;
+	color: #FFF;
+	font-style: oblique;
+	font-weight: bold;
+	text-shadow:2px 2px 4px #000;
+	text-align:center
+}
+
+#movies{
+	width: 1429px;
+	height: 808px;
+	margin: 0 auto;
+padding:20px;
+	border:solid #FFFFFF;
+	
+	}
